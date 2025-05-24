@@ -99,7 +99,7 @@ To execute the analysis presented in this repository:
 
 ## Requirements
 
-The code was developed using **Python 3.x** and relies on the following core libraries:
+The code was developed using **Python 3.10** and relies on the following core libraries:
 
 * `pandas` (for data manipulation and analysis)
 * `numpy` (for numerical operations, used implicitly by pandas)
